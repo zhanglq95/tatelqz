@@ -16,9 +16,13 @@
 
 ## Sound Samples
 
+<br>
 \* <sup>Note: All samples are in Mandrin Chinese.</sup>
+<br>
 \* <sup>The singing conversion samples of 1 singer, 3 male speakers and 3 female speakers are shown here.</sup>
+<br>
 \* <sup>There are 5 same singing segments for each speaker and singer.</sup>
+<br>
 \* <sup>The "Source Voice" is from training data.</sup>
 
 
