@@ -43,7 +43,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>Female Singer 1</th>
+      <th>Female Singer1</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/song_dx_801000013.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -58,7 +58,7 @@
             <source src="wavs/dx_r_5.wav"></audio></td>
     </tr>
     <tr>
-      <th>Female Speaker 1</th>
+      <th>Female Speaker1</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/daj_000023.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -73,7 +73,7 @@
             <source src="wavs/daj_r_5.wav"></audio></td>
     </tr>
     <tr>
-      <th>Male Speaker 1</th>
+      <th>Male Speaker1</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/liu_88010505.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -88,7 +88,7 @@
             <source src="wavs/liu_r_5.wav"></audio></td>
     </tr>
     <tr>
-      <th>Female Speaker 2</th>
+      <th>Female Speaker2</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/gui_10000224.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -103,7 +103,7 @@
             <source src="wavs/gui_r_5.wav"></audio></td>
     </tr>
     <tr>
-      <th>Male Speaker 2</th>
+      <th>Male Speaker2</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/lpl_sample.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -118,7 +118,7 @@
             <source src="wavs/lpl_r_5.wav"></audio></td>
     </tr>
     <tr>
-      <th>Female Speaker 3</th>
+      <th>Female Speaker3</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/ssx_08010642.wav"></audio></td>
       <td><audio controls="" preload="auto">
@@ -133,7 +133,7 @@
             <source src="wavs/ssx_r_5.wav"></audio></td>
     </tr>
     <tr>
-      <th>Male Speaker 3</th>
+      <th>Male Speaker3</th>
       <td><audio controls="" preload="auto">
             <source src="wavs/025_000009.wav"></audio></td>
       <td><audio controls="" preload="auto">
